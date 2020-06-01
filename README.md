@@ -35,8 +35,3 @@ docker-compose up -d
 docker ps
 
 ```
-
-##Tips
-
-- nginx コンテナを単独で立ち上げたときに出る以下エラーは
-nginx: [emerg] host not found in upstream "springboot" in /etc/nginx/nginx.conf:98
